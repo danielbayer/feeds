@@ -69,7 +69,7 @@ urls_list = [
 SHA256_RE = '[A-Fa-f0-9]{64}'
 IP_PORT_RE = r"(?:\d{1,3}\.){3}\d{1,3}"
 DOMAIN_RE = 'https?://([A-Za-z_0-9.-]+).*'
-link_regex = 'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+'
+LINK_REGEX = 'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+'
 
 #FILES consts
 CURRENT_PATH = os.path.abspath(os.getcwd())
@@ -156,7 +156,7 @@ def parse_data(html_code):
             all_ips.append(ip)
         time.sleep(0.5)
 
-        urls = re.findall(link_regex,html_code)
+        urls = re.findall(LINK_REGEX,html_code)
         domains = []
         for url in urls:
             all_urls.append(url)
