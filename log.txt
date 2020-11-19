@@ -1,0 +1,289 @@
+Generated the link : https://paste.cryptolaemus.com/emotet/2020/11/19/emotet-malware-IoCs_11-19-20.html
+
+working on : https://lists.blocklist.de/lists/all.txt
+
+The html code was successfully granted from : https://lists.blocklist.de/lists/all.txt
+
+##### Finished working on URL : 0 #####
+
+working on : https://www.dan.me.uk/torlist/?exit
+
+The html code was successfully granted from : https://www.dan.me.uk/torlist/?exit
+
+##### Finished working on URL : 1 #####
+
+working on : https://www.dan.me.uk/torlist/
+
+An error was written: local variable 'error' referenced before assignment 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 2 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/1.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 3 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/2.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 4 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/3.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 5 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/4.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 6 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/5.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 7 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/6.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 8 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/7.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 9 #####
+
+working on : https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stamparm/ipsum/master/levels/8.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 10 #####
+
+working on : https://mirai.security.gives/data/ip_list.txt
+
+The html code was successfully granted from : https://mirai.security.gives/data/ip_list.txt
+
+##### Finished working on URL : 11 #####
+
+working on : https://api.cybercure.ai/feed/get_ips?type=csv
+
+The html code was successfully granted from : https://api.cybercure.ai/feed/get_ips?type=csv
+
+##### Finished working on URL : 12 #####
+
+working on : https://api.cybercure.ai/feed/get_url?type=csv
+
+The html code was successfully granted from : https://api.cybercure.ai/feed/get_url?type=csv
+
+##### Finished working on URL : 13 #####
+
+working on : https://api.cybercure.ai/feed/get_hash?type=csv
+
+The html code was successfully granted from : https://api.cybercure.ai/feed/get_hash?type=csv
+
+##### Finished working on URL : 14 #####
+
+working on : https://blocklist.greensnow.co/greensnow.txt
+
+The html code was successfully granted from : https://blocklist.greensnow.co/greensnow.txt
+
+##### Finished working on URL : 15 #####
+
+working on : https://dataplane.org/vncrfb.txt
+
+The html code was successfully granted from : https://dataplane.org/vncrfb.txt
+
+##### Finished working on URL : 16 #####
+
+working on : https://dataplane.org/sshpwauth.txt
+
+The html code was successfully granted from : https://dataplane.org/sshpwauth.txt
+
+##### Finished working on URL : 17 #####
+
+working on : https://dataplane.org/sipregistration.txt
+
+The html code was successfully granted from : https://dataplane.org/sipregistration.txt
+
+##### Finished working on URL : 18 #####
+
+working on : https://dataplane.org/sipquery.txt
+
+The html code was successfully granted from : https://dataplane.org/sipquery.txt
+
+##### Finished working on URL : 19 #####
+
+working on : https://dataplane.org/sipinvitation.txt
+
+The html code was successfully granted from : https://dataplane.org/sipinvitation.txt
+
+##### Finished working on URL : 20 #####
+
+working on : https://cinsscore.com/list/ci-badguys.txt
+
+The html code was successfully granted from : https://cinsscore.com/list/ci-badguys.txt
+
+##### Finished working on URL : 21 #####
+
+working on : https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /ktsaou/blocklist-ipsets/master/firehol_level1.netset (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 22 #####
+
+working on : https://raw.githubusercontent.com/pan-unit42/iocs/master/diamondfox/diamondfox_panels.txt
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /pan-unit42/iocs/master/diamondfox/diamondfox_panels.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 23 #####
+
+working on : https://data.phishtank.com/data/online-valid.csv
+
+The html code was successfully granted from : https://data.phishtank.com/data/online-valid.csv
+
+parsing error: 'NoneType' object has no attribute 'group'
+##### Finished working on URL : 24 #####
+
+working on : https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /firehol/blocklist-ipsets/master/firehol_level1.netset (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 25 #####
+
+working on : https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /firehol/blocklist-ipsets/master/firehol_level2.netset (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 26 #####
+
+working on : https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /firehol/blocklist-ipsets/master/firehol_level3.netset (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 27 #####
+
+working on : http://sanyalnet-cloud-vps.freeddns.org/mirai-ips.txt
+
+The html code was successfully granted from : http://sanyalnet-cloud-vps.freeddns.org/mirai-ips.txt
+
+##### Finished working on URL : 28 #####
+
+working on : https://feodotracker.abuse.ch/downloads/ipblocklist.csv
+
+The html code was successfully granted from : https://feodotracker.abuse.ch/downloads/ipblocklist.csv
+
+##### Finished working on URL : 29 #####
+
+working on : https://cybercrime-tracker.net/all.php
+
+An error was written: HTTPSConnectionPool(host='cybercrime-tracker.net', port=443): Max retries exceeded with url: /all.php (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 30 #####
+
+working on : https://cybercrime-tracker.net/ccamgate.php
+
+An error was written: HTTPSConnectionPool(host='cybercrime-tracker.net', port=443): Max retries exceeded with url: /ccamgate.php (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 31 #####
+
+working on : https://cybercrime-tracker.net/ccamgate.php
+
+An error was written: HTTPSConnectionPool(host='cybercrime-tracker.net', port=443): Max retries exceeded with url: /ccamgate.php (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d9d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 32 #####
+
+working on : https://cybercrime-tracker.net/ccamlist.php
+
+The html code was successfully granted from : https://cybercrime-tracker.net/ccamlist.php
+
+##### Finished working on URL : 33 #####
+
+working on : https://phishstats.info/phish_score.csv
+
+The html code was successfully granted from : https://phishstats.info/phish_score.csv
+
+##### Finished working on URL : 34 #####
+
+working on : https://bazaar.abuse.ch/export/txt/md5/full/
+
+An error was written: HTTPSConnectionPool(host='bazaar.abuse.ch', port=443): Max retries exceeded with url: /export/txt/md5/full/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d490>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 35 #####
+
+working on : https://benkow.cc/export_rat.php
+
+An error was written: HTTPSConnectionPool(host='benkow.cc', port=443): Max retries exceeded with url: /export_rat.php (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d760>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 36 #####
+
+working on : https://benkow.cc/export.php
+
+The html code was successfully granted from : https://benkow.cc/export.php
+
+##### Finished working on URL : 37 #####
+
+working on : http://www.ipspamlist.com/public_feeds.csv
+
+The html code was successfully granted from : http://www.ipspamlist.com/public_feeds.csv
+
+##### Finished working on URL : 38 #####
+
+working on : https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
+
+An error was written: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /phishfort/phishfort-lists/master/blacklists/domains.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 39 #####
+
+working on : https://pastebin.com/quYGaugQ
+
+An error was written: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /quYGaugQ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d520>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 40 #####
+
+working on : https://udurrani.com/0fff/bad_hashes.html
+
+An error was written: HTTPSConnectionPool(host='udurrani.com', port=443): Max retries exceeded with url: /0fff/bad_hashes.html (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fbe7a20d370>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 41 #####
+
+working on : https://paste.cryptolaemus.com/emotet/2020/11/19/emotet-malware-IoCs_11-19-20.html
+
+An error was written: local variable 'error' referenced before assignment 
+
+parsing error: expected string or bytes-like object
+##### Finished working on URL : 42 #####
+
+There Are 81075 IPS, 1044 Hashes, 30401 Urls and 26683 Domains !
+written to /home/user/feeds/SHA265_2020-11-19.txt
+written to /home/user/feeds/IP_2020-11-19.txt
+written to /home/user/feeds/DOMAIN_2020-11-19.txt
+written to /home/user/feeds/URL_2020-11-19.txt
