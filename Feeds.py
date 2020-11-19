@@ -120,11 +120,11 @@ def fetch_html_from_url(url):
         else:
             write_to_logFile("The page {} returned an ERROR : {}, try again tomorrow".format(page, error) + '\n')
             return False
-
     except Exception as error:
         write_to_logFile("An error was written: {} ".format(error) +'\n')
+        return False
 
-#Function
+#Function writes data to the file.
 def write_to_file(file_path, data_list):
     try:
         with open(file_path,'a', newline = '') as f:
@@ -135,8 +135,10 @@ def write_to_file(file_path, data_list):
                 
     except IOError as err:
         write_to_logFile("I/O Error" + '\n')
+        return False
     except Exception as err:
         write_to_logFile("Unknown Error when trying to write to file {}, the error is {}".format(file_path,err) + '\n')
+        return False
 
 #Function gets html code and extraces the releveant data.
 def parse_data(html_code):
@@ -166,7 +168,7 @@ def parse_data(html_code):
 
     except Exception as err:        
         write_to_logFile("parsing error: {}".format(err))
-
+        return False
 
 def main():
 
@@ -180,7 +182,7 @@ def main():
             print("Working on url number: {}, {}".format(idx,url))
             write_to_logFile("##### Finished working on URL : {} #####".format(idx) + '\n')
         except Exception as err:
-            print(err)
+            write_to_logFile("An Unknown error : {}".format(err))
     write_to_logFile("There Are {} IPS, {} Hashes, {} Urls and {} Domains !".format(len(set(all_ips)),len(set(all_sha)),len(set(all_urls)),len(set(all_domains))))
             
     write_to_file(PATH_SHA265,set(all_sha))
